@@ -3,7 +3,7 @@ Sum square difference
 ### Problem 6
 
 The sum of the squares of the first ten natural numbers is,  
-![](https://latex.codecogs.com/svg.latex?1^2&space;&plus;&space;2^2&space;&plus;&space;...&space;&plus;&space;10^2&space;=&space;385)
+![](https://latex.codecogs.com/svg.latex?1^2&space;&plus;&space;2^2&space;&plus;&space;...&space;&plus;&space;10^2&space;=&space;385)  
 The square of the sum of the first ten natural numbers is,  
 ![](https://latex.codecogs.com/svg.latex?(1&space;&plus;&space;2&space;&plus;&space;...&space;&plus;&space;10)^2&space;=&space;55^2&space;=&space;3025)  
 Hence the difference between the sum of the squares of the first ten natural numbers and the square of the sum is 3025 − 385 = 2640.  
