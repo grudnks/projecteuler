@@ -19,4 +19,4 @@ def get_even_fib_sum(border):
     return _sum
 
 print(get_even_fib_sum(4000000))
-# Answer: 4613732
+# Answer: 4613732 
