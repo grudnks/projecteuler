@@ -7,3 +7,4 @@ Solving a projecteuler problems:
 3. [Largest prime factor](./problem%203 "Largest prime factor")
 4. [Largest palindrome product](./problem%204 "Largest palindrome product")
 5. [Smallest multiple](./problem%205 "Smallest multiple")
+6. [Sum square difference](./problem%206 "Sum square difference")
