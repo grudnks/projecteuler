@@ -9,3 +9,4 @@ Solving a projecteuler problems:
 5. [Smallest multiple](./problem%205 "Smallest multiple")
 6. [Sum square difference](./problem%206 "Sum square difference")
 7. [10001st prime](./problem%207 "10001st prime")
+8. [Largest product in a series](./problem%208 "Largest product in a series")
