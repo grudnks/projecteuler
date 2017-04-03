@@ -10,3 +10,4 @@ Solving a projecteuler problems:
 6. [Sum square difference](./problem%206 "Sum square difference")
 7. [10001st prime](./problem%207 "10001st prime")
 8. [Largest product in a series](./problem%208 "Largest product in a series")
+9. [Special Pythagorean triplet](./problem%209 "Special Pythagorean triplet")
