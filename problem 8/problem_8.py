@@ -36,4 +36,4 @@ def get_max_product(digits, n):
     return max_product
 
 print(get_max_product(digits, 13))
-# # Answer: 23514624000
+# Answer: 23514624000
