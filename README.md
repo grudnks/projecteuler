@@ -12,3 +12,4 @@ Solving a projecteuler problems:
 8. [Largest product in a series](./problem%2008 "Largest product in a series")
 9. [Special Pythagorean triplet](./problem%2009 "Special Pythagorean triplet")
 10. [Summation of primes](./problem%2010 "Summation of primes")
+11. [Largest product in a grid](./problem%2011 "Largest product in a grid")
